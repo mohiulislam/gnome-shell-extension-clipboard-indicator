@@ -140,13 +140,13 @@
             </description>
         </key>
         <key name="prev-entry" type="as">
-        <default><![CDATA[['<Control>F11']]]></default>
+            <default><![CDATA[['<Left>']]]></default>
             <summary>Key to cycle to the previous entry in the clipboard</summary>
             <description>
             </description>
         </key>
         <key name="next-entry" type="as">
-        <default><![CDATA[['<Control>F12']]]></default>
+            <default><![CDATA[['<Right>']]]></default>
             <summary>Next entry</summary>
             <description>
                 Key to cycle to the next entry in the clipboard
